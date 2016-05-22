@@ -62,3 +62,8 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * tBodyAccJerkMean
 * tBodyGyroMean
 * tBodyGyroJerkMean
+
+## Variables required in the Getting and Cleaning Data Course Project.
+
+The run_analysis.R script filter the variables so only the measurements on the mean and standard deviation for each 
+measurement will be shown.
